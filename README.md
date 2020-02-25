@@ -1,4 +1,4 @@
-# Research record
+# Computer Vision Research Record
 
 In this folder you can find the results of 3 different works:
 
